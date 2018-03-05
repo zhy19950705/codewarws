@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27dba5f2-c062-46cc-8253-cbbdbf558772" name="Default" comment="" />
+    <list default="true" id="27dba5f2-c062-46cc-8253-cbbdbf558772" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/IQ test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Let's play darts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Mubling.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scrolling text.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/simple missing sum.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/who likes it.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/模板字符串替换.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,51 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="simple string characters.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/simple string characters.js">
+      <file leaf-file-name="Let's play darts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Let's play darts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="304">
+              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cat years,dog years.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat years,dog years.js">
+      <file leaf-file-name="模板字符串替换.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/模板字符串替换.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="matrix square up,b.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/matrix square up,b.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="persistent bugger.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/persistent bugger.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="equal sides of an array.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/equal sides of an array.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -119,6 +98,14 @@
         <option value="$PROJECT_DIR$/matrix square up,b.js" />
         <option value="$PROJECT_DIR$/persistent bugger.js" />
         <option value="$PROJECT_DIR$/equal sides of an array.js" />
+        <option value="$PROJECT_DIR$/Mubling.js" />
+        <option value="$PROJECT_DIR$/Really Complex Sum.js" />
+        <option value="$PROJECT_DIR$/simple missing sum.js" />
+        <option value="$PROJECT_DIR$/IQ test.js" />
+        <option value="$PROJECT_DIR$/scrolling text.js" />
+        <option value="$PROJECT_DIR$/who likes it.js" />
+        <option value="$PROJECT_DIR$/Let's play darts.js" />
+        <option value="$PROJECT_DIR$/模板字符串替换.js" />
       </list>
     </option>
   </component>
@@ -135,9 +122,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1267" />
-    <option name="width" value="1296" />
-    <option name="height" value="1398" />
+    <option name="x" value="1014" />
+    <option name="width" value="976" />
+    <option name="height" value="1037" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -155,8 +142,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,26 +178,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.equal sides of an array.js">
-    <configuration name="List of Presents.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="List of Presents.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="equal sides of an array.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="equal sides of an array.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="matrix square up,b.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="matrix square up,b.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="persistent bugger.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="persistent bugger.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="simple string characters.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="simple string characters.js" working-dir="$PROJECT_DIR$" />
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.List of Presents.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.simple string characters.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.matrix square up,b.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.persistent bugger.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.equal sides of an array.js" />
+  <component name="RunManager" selected="Node.js.Let's play darts.js">
+    <configuration name="IQ test.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="IQ test.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="Let's play darts.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Let's play darts.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="Really Complex Sum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Really Complex Sum.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="scrolling text.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="scrolling text.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="simple missing sum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="simple missing sum.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="who likes it.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="who likes it.js" working-dir="$PROJECT_DIR$" />
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.IQ test.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.simple missing sum.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Really Complex Sum.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.scrolling text.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.who likes it.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.Let's play darts.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.equal sides of an array.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.persistent bugger.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.matrix square up,b.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.simple string characters.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.List of Presents.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Let's play darts.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.who likes it.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.scrolling text.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.simple missing sum.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Really Complex Sum.js" />
       </list>
     </recent_temporary>
   </component>
@@ -233,25 +222,30 @@
       <workItem from="1519783371864" duration="13624000" />
       <workItem from="1519866839865" duration="7375000" />
       <workItem from="1519900292331" duration="51000" />
-      <workItem from="1519952654929" duration="6324000" />
+      <workItem from="1519952654929" duration="8897000" />
+      <workItem from="1519987495624" duration="58000" />
+      <workItem from="1520039491092" duration="2800000" />
+      <workItem from="1520049376488" duration="3716000" />
+      <workItem from="1520124340215" duration="6669000" />
+      <workItem from="1520214595789" duration="1460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69228000" />
+    <option name="totallyTimeSpent" value="86504000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1267" y="0" width="1296" height="1398" extended-state="0" />
+    <frame x="1014" y="0" width="976" height="1037" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40938166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297342" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39950165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3284091" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3992891" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -338,17 +332,35 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/persistent bugger.js</url>
           <line>7</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/equal sides of an array.js</url>
           <line>9</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Mubling.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/simple missing sum.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/IQ test.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/scrolling text.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="29" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -362,64 +374,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pete,the baker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="53" lean-forward="false" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pick peaks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/find the odd int.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/one and zeros.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/which are in.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stop gninnipS My sdroW!.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tortoise racing.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -440,13 +394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="382" column="4" lean-forward="false" selection-start-line="382" selection-start-column="4" selection-end-line="382" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -560,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -658,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,7 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,6 +655,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mubling.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Really Complex Sum.js" />
+    <entry file="file://$PROJECT_DIR$/simple missing sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IQ test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrolling text.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/who likes it.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="78" lean-forward="false" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="606" column="4" lean-forward="false" selection-start-line="606" selection-start-column="4" selection-end-line="606" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Let's play darts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模板字符串替换.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
